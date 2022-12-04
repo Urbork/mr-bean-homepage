@@ -1,0 +1,31 @@
+.section {
+  padding: 16px;
+}
+
+.section__heading {
+  padding: 8px 0;
+  background-color: lightgray;
+  font-size: 32px;
+  text-align: center;
+  border-radius: 16px;
+}
+
+.section__imagebox {
+  padding: 16px;
+  text-align: center;
+}
+
+.section__button {
+  margin-bottom: 16px;
+  padding: 8px;
+  background-color: #222;
+  font-size: 20px;
+  color: #eee;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.section__button:hover {
+  background-color: #eee;
+  color: #222;
+}
