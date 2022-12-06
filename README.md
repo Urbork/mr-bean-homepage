@@ -4,7 +4,7 @@ Homepage about a British sitcom created by Rowan Atkinson nad Richard Curtis, st
 
 ## DEMO
 
-https://urbork.github.io/mr-bean/
+https://urbork.github.io/mr-bean-homepage/
 
 ![preview](https://i.postimg.cc/vThzpWzQ/mr-bean-homepage.gif)
 
